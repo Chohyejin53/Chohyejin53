@@ -11,8 +11,8 @@
 const hyejin = {
   pronouns: "she" | "her",
   techStacks : [ HTML5, CSS3, Sass, SCSS, Javascript, JQuery, Gulp, Node, npm ],
-  DesignTool : [ Photoshop, Illustrator], 
-  coworkTool : [ Github, Gitlab, Zeplin, Works ],
+  DesignTool : [ Photoshop, Illustrator, Zeplin], 
+  coworkTool : [ Github, Gitlab, Works ],
   Blog: { locale: "ko-KR" ,
           title: "After_6:00" ,
           description: "慢慢地，准确地" ,
