@@ -16,7 +16,7 @@ const hyejin = {
   Blog: { locale: "ko-KR" ,
           title: "After_6:00" ,
           description: "慢慢地，准确地" ,
-          url : https://chohyejin53.github.io/
+          url : "https://chohyejin53.github.io/"
           },
  challenge: "1 day 1 commit!"
 }
