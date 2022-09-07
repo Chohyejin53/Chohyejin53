@@ -10,8 +10,9 @@
 ```javascript
 const hyejin = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, , SCSS, Javascript, JQuery],
-  tools: [Node, sass],
+  techStacks : [ HTML5, CSS3, Sass, SCSS, Javascript, JQuery, Gulp, Node, npm ],
+  DesignTool : [ Photoshop, Illustrator], 
+  coworkTool : [ Github, Gitlab, Zeplin, Works ],
   Blog: { locale: "ko-KR" ,
           title: "After_6:00" ,
           description: "慢慢地，准确地" ,
