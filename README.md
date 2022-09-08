@@ -1,7 +1,6 @@
-<h2> Hi, I'm hyejin! 👋</h2>
+<h2> Hi, I'm hyejin! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>I work as a web publisher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>I work as a web publisher</em></p>
 
 
 
