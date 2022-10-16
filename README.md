@@ -9,7 +9,7 @@
 ```javascript
 const hyejin = {
   pronouns: "she" | "her",
-  techStacks : [ HTML5, CSS3, Sass, SCSS, Javascript, JQuery, Gulp, Node, npm ],
+  techStacks : [ HTML5, CSS3, Sass, SCSS, Javascript, JQuery, Gulp, Node ],
   DesignTool : [ Photoshop, Illustrator, Zeplin], 
   coworkTool : [ Github, Gitlab, Works ],
   Blog: { locale: "ko-KR" ,
