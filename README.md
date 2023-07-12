@@ -10,7 +10,7 @@
 const hyejin = {
   pronouns: "she" | "her",
   techStacks : [ HTML5, CSS3, Sass, SCSS, Javascript, JQuery, Gulp, Node ],
-  DesignTool : [ Photoshop, Illustrator, Zeplin], 
+  DesignTool : [ Photoshop, Illustrator, Zeplin, figma], 
   coworkTool : [ Github, Gitlab, Works ],
   Blog: { locale: "ko-KR" ,
           title: "After_6:00" ,
